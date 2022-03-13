@@ -7,7 +7,7 @@ Watch my video before you start: https://github.com/jul200/DCFwalmartinc/blob/ma
 
 As we go along, I will update the valuation based on the learnings from the community and share it here for all of you to follow.
 
-This model allows users to input their own assumptioons for each of the following:
+This model allows users to input their own assumptions for each of the following:
 - Growth Rate of FCF
 - Perpetual Growth Rate
 - Discount Rate (WACC)
