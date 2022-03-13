@@ -1,7 +1,7 @@
 DCF Calculations Walmart Inc.
 
 This file "DCF_Walmart Inc_published" includes two different DCF valuations of Walmart Inc.
-Download my shared google file and provide & upload your own inputs on this fundamental-based valuation of Walmart Inc.
+Provide your own inputs on this fundamental-based valuation of Walmart Inc.
 I am new to Company valuations and want to learn from the analyst community and stress test my valuations. 
 Watch my video where I go through the file "DCF_Walmart Inc_published": https://youtu.be/FBECywolPXM
 
